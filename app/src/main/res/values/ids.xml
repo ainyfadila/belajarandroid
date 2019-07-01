@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="image_view" type="id">mImage</item>
+    <item name="my_recycler_view" type="id">recyclerview</item>
+    <item name="action_settings" type="id">action</item>
+</resources>
